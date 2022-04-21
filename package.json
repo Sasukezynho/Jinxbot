@@ -1,7 +1,7 @@
 {
     "name": "JinxBot",
     "version": "3.5.0v",
-    "description": "Queen Juliet Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "description": "JinxBot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "./QueenJuliet/assets/module.js",
     "scripts": {
       "start": "supervisor -s assets/module.js"
